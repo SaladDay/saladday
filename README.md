@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://aa-three-gray.vercel.app/api?username=saladday)](https://github.com/saladday)
+[![Anurag's GitHub stats](https://github-readme-stats-ivory-nine-61.vercel.app/api?username=saladday)](https://github.com/saladday)
