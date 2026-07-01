@@ -1,1 +1,1 @@
-[![GitHub Roast](https://ghfind.com/api/card/SaladDay?theme=dark)](https://ghfind.com/u/SaladDay)
+<a href="https://ghfind.com/u/saladday"><img src="https://ghfind.com/api/card/saladday?theme=dark" alt="GitHub Roast" width="600" /></a>
