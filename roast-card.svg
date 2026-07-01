@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <clipPath id="rounded-corners">
+      <rect x="0" y="0" width="1200" height="630" rx="40" ry="40"/>
+    </clipPath>
+  </defs>
+  <image xlink:href="https://ghfind.com/api/card/saladday?theme=dark" href="https://ghfind.com/api/card/saladday?theme=dark" width="1200" height="630" clip-path="url(#rounded-corners)"/>
+</svg>
